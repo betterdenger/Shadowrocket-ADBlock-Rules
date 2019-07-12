@@ -12,7 +12,7 @@ git merge upstream/master
 git push origin master
 
 cd $CURDIR
-/usr/bin/env python 0my_build_confs.py
+/usr/bin/env python3 0my_build_confs.py
 
 git add .
 git commit -m "Private rules"
