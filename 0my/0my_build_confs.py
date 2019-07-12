@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import re
-import time
 
 
 def getRulesStringFromFile(path, kind):
@@ -39,7 +38,7 @@ str_foot = open('../factory/' + 'template/sr_foot.txt', 'r', encoding='utf-8').r
 # make values
 values = {}
 
-values['build_time'] = time.strftime("%Y-%m-%d %H:%M:%S")
+values['build_time'] = '9999-99-99'
 
 values['top500_proxy']  = getRulesStringFromFile('resultant/top500_proxy.list', 'Proxy')
 values['top500_direct'] = getRulesStringFromFile('resultant/top500_direct.list', 'Direct')
