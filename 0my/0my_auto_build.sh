@@ -7,8 +7,8 @@ cd $PROJECT_ROOT
 
 git remote add upstream https://github.com/h2y/Shadowrocket-ADBlock-Rules.git
 git fetch --all
-git checkout origin/master
-git merge upstream/master
+git checkout master
+git merge upstream/master origin/master
 git push origin master
 
 cd $CURDIR
