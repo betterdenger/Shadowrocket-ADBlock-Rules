@@ -1,0 +1,6 @@
+# 全民追书屏蔽域名
+res.jnmzsd.com
+ixigua.com
+pstatp.com
+bytecdn.cn
+
