@@ -16,4 +16,4 @@ cd $CURDIR
 
 git add .
 git commit -m "Private rules"
-git push
+git push origin master
