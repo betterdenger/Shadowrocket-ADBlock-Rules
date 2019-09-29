@@ -6,7 +6,7 @@ PROJECT_ROOT=$(dirname $0)/..
 cd $PROJECT_ROOT
 
 git fetch --all
-git rebase upstream/master origin/master
+git merge upstream/master origin/master -m "Auto merge"
 
 cd $CURDIR
 /usr/bin/env python3 0my_build_confs.py
