@@ -14,7 +14,7 @@
 
 ## 规则列表
 
-![规则选择指南](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/guide.png?1985)
+![规则选择指南](https://github.com/h2y/Shadowrocket-ADBlock-Rules/raw/master/figure/guide.png)
 
 规则 | 规定代理的网站 | 规定直连的网站 
 --- | ----------- | ------------- 
@@ -64,11 +64,11 @@
 
 ## 相关推荐
 
-[**功夫翻墙网**](https://across-gfw.com/register?aff=5150)
+[**糖客翻墙提供商 :100: **](https://tangke.win/register?aff=1077)
 
-我所选择的节点提供商。稳定、速度快、价格适中。节点遍布全球，可使用 Netflix，亦提供翻墙回国节点。
+我所选择的节点提供商。稳定、速度快、价格适中，还支持按流量计费。新用户可以免费试用 15 天。
 
-欢迎大家通过我的邀请链接前去使用。
+请大家使用我的推广链接前去注册。
 
 
 [**AppleDNS**](https://github.com/gongjianhui/AppleDNS)
