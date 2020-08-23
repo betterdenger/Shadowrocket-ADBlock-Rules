@@ -214,11 +214,13 @@ kikibt8.xyz
 res.jnmzsd.com
 ixigua.com
 pstatp.com
-bytecdn.cn
 jpush.cn
 snssdk.com
 umeng.com
-ios.bugly.qq.com
+bugly.qq.com
 api.weibo.com
 app.dzjgmp.com
 umengcloud.com
+pangolin-sdk-toutiao.com
+conf.arstsgc.cn
+dm.bytedance.com
