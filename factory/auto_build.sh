@@ -3,8 +3,9 @@
 Path=~/workspace/Shadowrocket-ADBlock-Rules
 cd $Path
 
+git checkout origin/master
 git fetch --all
-git merge upstream/master origin/master
+git merge -X theirs upstream/master
 
 cd factory
 python3 ad.py
