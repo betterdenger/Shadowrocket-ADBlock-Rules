@@ -5,7 +5,7 @@ cd $Path
 
 git checkout origin/master
 git fetch --all
-git merge -X theirs upstream/master
+git merge -X theirs upstream/master origin/master
 
 cd factory
 python3 ad.py
