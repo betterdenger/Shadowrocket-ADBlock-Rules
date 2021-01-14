@@ -221,6 +221,6 @@ bugly.qq.com
 api.weibo.com
 app.dzjgmp.com
 umengcloud.com
-*-toutiao.com
-*-toutiao-b.com
+-toutiao
+-toutiao-b
 conf.arstsgc.cn
