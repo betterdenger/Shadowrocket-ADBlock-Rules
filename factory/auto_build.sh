@@ -4,6 +4,7 @@ Path=~/workspace/Shadowrocket-ADBlock-Rules
 cd $Path
 
 git checkout origin/master
+git pull -s recursive -X theirs origin master
 git fetch --all
 git merge -X theirs upstream/master origin/master
 
